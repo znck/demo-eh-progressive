@@ -1,0 +1,17 @@
+{
+  "name": "demo-eh-progressive",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rahul Kadyan <hi@znck.me> (https://znck.me)",
+  "license": "MIT"
+}
