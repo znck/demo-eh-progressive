@@ -1,4 +1,4 @@
-# Demo Eh! Progressive
+# Demo: Eh! Progressive
 
 An application to demo progressive nature of Vue.
 
